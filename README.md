@@ -1,8 +1,11 @@
-# React + Vite
+🎄 Natalflix
+Uma página inicial inspirada na Netflix, focada em filmes de Natal. Desenvolvida com HTML, CSS, React com Vite e SASS para proporcionar uma experiência festiva e imersiva.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Tecnologias Utilizadas
+HTML5: Estrutura da página.
+CSS3 (SASS): Estilização avançada com uso de variáveis, mixins e organização de estilos.
+React: Biblioteca para construção da interface do usuário.
+Vite: Ferramenta de construção rápida para desenvolvimento com React.
 
-Currently, two official plugins are available:
+Layout inspirado na Netflix, com temática natalina.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
