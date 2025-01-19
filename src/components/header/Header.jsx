@@ -2,7 +2,7 @@ import chapeu from '../../assets/chapeu.png';
 import perfil from '../../assets/perfil.png';
 import setinha from '../../assets/setinha.png';
 import inicio from '../../assets/inicio.png';
-import lupa from '../../assets/lupa.png';
+import lupa from '../../assets/Lupa.png';
 import filme from '../../assets/filmes.png';
 import serie from '../../assets/series.png';
 import lista from '../../assets/estrela.png';
