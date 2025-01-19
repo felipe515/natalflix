@@ -1,0 +1,45 @@
+header {
+  background-color: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  color: white;
+}
+
+.sectionPerfil {
+  display: flex;
+  align-items: center;
+  margin-left: 40px;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.profileContainer {
+  position: relative;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.hat {
+  position: absolute;
+  top: -50%;
+  left: 10%;
+  transform: translateX(-50%);
+}
+
+.sectionMenu {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+}
+.sectionMenu div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 12%;
+  cursor: pointer;
+}
+.sectionMenu div img {
+  margin-right: 4px;
+}/*# sourceMappingURL=header.module.css.map */
